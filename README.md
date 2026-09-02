@@ -123,12 +123,12 @@ I then used `ls` to confirm that the files and directories I created matched the
 <img src="https://i.imgur.com/LAuDNTn.png" height="100%" width="100%"/>
 </p>
 
-For the bonus, I used `mkdir -p src/components/Navbar` to create both the `components` directory and its nested `Navbar` directory with a single command. I then used `ls` along with relative paths from the `my-app` directory to confirm that the new nested folder structure was created correctly.
+For the bonus, I used `mkdir -p src/components/Navbar` to create both the `components` directory and its nested `Navbar` directory with a single command. I then used `ls` along with relative paths from the `my-app` directory to confirm that the new nested folder structure was correct.
 
 <br />
 <br />
 
 <p>
-✨ I’m really enjoying learning more Linux commands and seeing how they build on each other. Now I’m getting more comfortable not only moving around the Linux file system from the terminal, but also creating files and directories in it.
+✨ I’m really enjoying learning more Linux commands and seeing how they build on each other! Now I’m getting more comfortable not only moving around the Linux file system from the terminal, but also creating files and directories in it.
 </p>
 <br />
