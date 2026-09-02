@@ -3,9 +3,9 @@
 </p>
 <h1>Linux Exercise: Making Files And Folders</h1>
 
-In this exercise, I... 
+In this exercise, I practiced creating files, directories, and nested directories from the Linux terminal using the `touch` and `mkdir` commands.
 
-Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Beginner to Power User**, for providing both the exercise and the foundational knowledge needed to complete it.
+Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Beginner to Power User**, for providing both the exercise and the knowledge needed to complete it.
 <br />
 
 <h2>The Commands</h2>
@@ -63,7 +63,7 @@ Your folder structure should now look like this:
 <img src="https://i.imgur.com/OmTD8rX.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+To get started, I used `mkdir my-app` to create a new directory called `my-app`.
 
 <br />
 <br />
@@ -73,7 +73,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/5lA4q9x.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+After navigating into `my-app`, I used the `touch` command to create two files: `README.md` and `package.json`.
 
 <br />
 <br />
@@ -83,7 +83,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/G5kBofb.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+Next, I created a new directory called `public`, then used `touch public/index.html` to create the `index.html` file inside it without navigating into the `public` directory.
 
 <br />
 <br />
@@ -93,7 +93,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/D5u05rh.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I created a new directory called `src` inside `my-app`, then navigated into it using `cd src/`.
 
 <br />
 <br />
@@ -103,7 +103,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/ZUIwwzy.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+While inside `src`, I used a single `touch` command to create four files at once: `App.css`, `App.js`, `index.css`, and `index.js`.
 
 <br />
 <br />
@@ -113,7 +113,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/XDabC2M.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I then used `ls` to confirm that the files and directories I created matched the expected folder structure, including `ls` with relative paths to check the contents of the `public` and `src` subdirectories from the parent `my-app` directory
 
 <br />
 <br />
@@ -123,12 +123,12 @@ Lorem ipsum
 <img src="https://i.imgur.com/LAuDNTn.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+For the bonus, I used `mkdir -p src/components/Navbar` to create both the `components` directory and its nested `Navbar` directory with a single command. I then used `ls` along with relative paths from the `my-app` directory to confirm that the new nested folder structure was created correctly.
 
 <br />
 <br />
 
 <p>
-✨ Lorem ipsum
+✨ I’m really enjoying learning more Linux commands and seeing how they build on each other. Now I’m getting more comfortable not only moving around the Linux file system from the terminal, but also creating files and directories in it.
 </p>
 <br />
