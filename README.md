@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/TES6KV4.png" height="40%" width="60%" alt="Linux"/>
 </p>
-<h1>Linux Exercise: Making Files And Folders</h1>
+<h1>Linux Exercise: Making Files and Folders</h1>
 
 In this exercise, I practiced creating files, directories, and nested directories from the Linux terminal using the `touch` and `mkdir` commands.
 
@@ -113,7 +113,7 @@ While inside `src`, I used a single `touch` command to create four files at once
 <img src="https://i.imgur.com/XDabC2M.png" height="100%" width="100%"/>
 </p>
 
-I then used `ls` to confirm that the files and directories I created matched the expected folder structure, including `ls` with relative paths to check the contents of the `public` and `src` subdirectories from the parent `my-app` directory
+I then used `ls` to confirm that the files and directories I created matched the expected folder structure, including `ls` with relative paths to check the contents of the `public` and `src` subdirectories from the parent `my-app` directory.
 
 <br />
 <br />
