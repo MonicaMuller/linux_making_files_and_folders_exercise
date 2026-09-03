@@ -13,6 +13,7 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 - touch
 - mkdir
   - -p
+- Honorable mention: ls -R
 
 <h2>The Exercise</h2>
 
@@ -124,6 +125,8 @@ I then used `ls` to confirm that the files and directories I created matched the
 </p>
 
 For the bonus, I used `mkdir -p src/components/Navbar` to create both the `components` directory and its nested `Navbar` directory with a single command. I then used `ls` along with relative paths from the `my-app` directory to confirm that the new nested folder structure was correct.
+
+(Edit to add: Apparently, "ls -R" would have listed the folder structure with one command. At least now I know 😅)
 
 <br />
 <br />
